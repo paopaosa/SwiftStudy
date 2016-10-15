@@ -1,6 +1,6 @@
 ## Objective-C库
 
-收集了最近几年一直使用的优秀的第三方库。
+有时候用过一些好的库，但一下子又想不起来，特此记下来。
 
 ### 超级实用的库
 
@@ -24,6 +24,7 @@
 |[ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift)| 大名顶顶的Rx系列的Swift版本，它和ReactiveCocoa不太一样，感觉 Swift下，它比ReactiveCocoa好用。|
 |[ReactiveCocoa/ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift)| [ReactiveCocoa](http://reactivecocoa.io)分成了四个库，[ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa), [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift)，[ReactiveObjC](https://github.com/ReactiveCocoa/ReactiveObjC), [ReactiveObjBridge](https://github.com/ReactiveCocoa/ReactiveObjCBridge)。|
 |[nixzhu/MonkeyKing](https://github.com/nixzhu/MonkeyKing)| 还是得用国产分享组件（微信，朋友圈，微博 三件宝）这个帅，登录分享支付都有，不知道你敢不敢用。|
+|[xmartlabs/XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)| Tab变化+内容左右滑动的PagerView, 现在设计里经常看到的效果。|
 
 
 
