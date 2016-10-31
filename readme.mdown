@@ -13,7 +13,7 @@
 |[mRs-/HexColors](https://github.com/mRs-/HexColors)| 设计湿给的颜色往往是hex，比如FFFFF00什么的，鬼知道是什么颜色，省得你自己再转换成RGBA。|
 |[sagiwei/SGActionView](https://github.com/sagiwei/SGActionView)| 经常看到设计给的具土鳖风格的分享弹框，个人认为利用系统的UIActivityContorller的调用系统自带的那种更好。|
 |[sforkingdog/UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)| 用上autolayout后，自动计算cell调试了，比系统的方法，滚动时不会来回跳动。特别适合用来搞朋友圈，评论列表之类的。|
-
+|[zekunyan/TTGTagCollectionView](https://github.com/paopaosa/SwiftStudy)| Tags,作者使用CollectionView实现。|
 
 ## Swift库
 
@@ -25,6 +25,7 @@
 |[ReactiveCocoa/ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift)| [ReactiveCocoa](http://reactivecocoa.io)分成了四个库，[ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa), [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift)，[ReactiveObjC](https://github.com/ReactiveCocoa/ReactiveObjC), [ReactiveObjBridge](https://github.com/ReactiveCocoa/ReactiveObjCBridge)。|
 |[nixzhu/MonkeyKing](https://github.com/nixzhu/MonkeyKing)| 还是得用国产分享组件（微信，朋友圈，微博 三件宝）这个帅，登录分享支付都有，不知道你敢不敢用。|
 |[xmartlabs/XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip)| Tab变化+内容左右滑动的PagerView, 现在设计里经常看到的效果。|
+
 
 
 
