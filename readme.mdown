@@ -14,6 +14,7 @@
 |[sagiwei/SGActionView](https://github.com/sagiwei/SGActionView)| 经常看到设计给的具土鳖风格的分享弹框，个人认为利用系统的UIActivityContorller的调用系统自带的那种更好。|
 |[sforkingdog/UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell)| 用上autolayout后，自动计算cell调试了，比系统的方法，滚动时不会来回跳动。特别适合用来搞朋友圈，评论列表之类的。|
 |[zekunyan/TTGTagCollectionView](https://github.com/paopaosa/SwiftStudy)| Tags,作者使用CollectionView实现。|
+|[steipete/Aspects](https://github.com/steipete/Aspects)| 面向切面编程，给方法挂勾子的？测试里用。|
 
 ## Swift库
 
