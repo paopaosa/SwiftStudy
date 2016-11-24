@@ -36,7 +36,11 @@
 |-----------|---------------|
 |[oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)| 专门的图标库，类似FontAwesomeKit。 |
 
+## FAQ
 
+| 问题 |
+|---------------------------------------------------------------|
+| [AFNetworking wrapping: how to cancel requests and do not call subscribeNext: block #852](https://github.com/ReactiveCocoa/ReactiveCocoa/issues/852) |
 
 
 
