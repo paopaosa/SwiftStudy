@@ -16,7 +16,7 @@
 |[zekunyan/TTGTagCollectionView](https://github.com/paopaosa/SwiftStudy)| Tags,作者使用CollectionView实现。|
 |[steipete/Aspects](https://github.com/steipete/Aspects)| 面向切面编程，给方法挂勾子的？测试里用。|
 |[zoonooz/ZFTokenField](https://github.com/zoonooz/ZFTokenField)| tags in textfield,输入框里含 tags 表格。|
-|[CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout)| 流行的CollectionView头部粘着的效果，多用于个人中心展示。|
+|[CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout)| 流行的CollectionView头部粘着的效果，多用于个人中心展示。|
 ## Swift库
 
 ### swift是一直在更新，一直在学习，从入门到放弃，再到入门再放弃的死循环
