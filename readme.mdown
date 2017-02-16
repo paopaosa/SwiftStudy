@@ -20,6 +20,7 @@
 |[danielebogo/DBPrivacyHelper](https://github.com/danielebogo/DBPrivacyHelper)| 跳转系统设置项页面。|
 |[CanvasPod/Canvas](https://github.com/CanvasPod/Canvas)|方便易用的动画库|
 |[airbnb/lottie-ios](https://github.com/airbnb/lottie-ios)|airbnb实现的after effect的动画效果|
+|[joeldev/JLRoutes](https://github.com/joeldev/JLRoutes)| ios上页面路由的实现，Viper设计模式|
 
 ## Swift库
 
