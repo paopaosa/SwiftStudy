@@ -18,6 +18,8 @@
 |[zoonooz/ZFTokenField](https://github.com/zoonooz/ZFTokenField)| tags in textfield,输入框里含 tags 表格。|
 |[CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout)| 流行的CollectionView头部粘着的效果，多用于个人中心展示。|
 |[danielebogo/DBPrivacyHelper](https://github.com/danielebogo/DBPrivacyHelper)| 跳转系统设置项页面。|
+|[CanvasPod/Canvas](https://github.com/CanvasPod/Canvas)|方便易用的动画库|
+|[airbnb/lottie-ios](https://github.com/airbnb/lottie-ios)|airbnb实现的after effect的动画效果|
 
 ## Swift库
 
