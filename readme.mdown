@@ -21,7 +21,7 @@
 |[CanvasPod/Canvas](https://github.com/CanvasPod/Canvas)|方便易用的动画库|
 |[airbnb/lottie-ios](https://github.com/airbnb/lottie-ios)|airbnb实现的after effect的动画效果|
 |[joeldev/JLRoutes](https://github.com/joeldev/JLRoutes)| ios上页面路由的实现，Viper设计模式|
-
+|[WenchaoD/FSPagerView](https://github.com/WenchaoD/FSPagerView)| ios优秀的轮播图|
 ## Swift库
 
 ### swift是一直在更新，一直在学习，从入门到放弃，再到入门再放弃的死循环
